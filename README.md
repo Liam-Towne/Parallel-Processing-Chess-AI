@@ -1,1 +1,2 @@
-# Parallel-Processing-Chess-AI
+### Authors:
+Liam Towne & Sean O'Malley
